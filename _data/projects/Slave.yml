@@ -1,0 +1,12 @@
+name: Slave - Automate your PC
+desc: Extensible launcher, booster for your productivity.
+site: https://neemesis.github.io/slave/
+tags:
+- dotnet
+- csharp
+- automate
+- launcher
+- productivity
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/neemesis/Slave
